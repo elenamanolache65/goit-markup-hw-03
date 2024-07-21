@@ -78,8 +78,7 @@
     color: var(--navy-blue);
   }
 
-  .menu-item,
-  .link {
+  .menu-item {
     padding: 24px 0;
   }
   .menu-item:hover,
