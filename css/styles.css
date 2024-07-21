@@ -76,6 +76,7 @@
   .menu-item {
     font-weight: 500;
     color: var(--navy-blue);
+    padding: 24px;
   }
   .menu-item:hover,
   .menu-item:focus,
